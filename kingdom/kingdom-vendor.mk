@@ -69,7 +69,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/kingdom/proprietary/framework/ConnectivityExt.jar:system/framework/ConnectivityExt.jar \
     vendor/lenovo/kingdom/proprietary/framework/qcnvitems.jar:system/framework/qcnvitems.jar \
     vendor/lenovo/kingdom/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
-    vendor/lenovo/kingdom/proprietary/lib/hw/camera.vendor.msm8974.so:system/lib/hw/camera.vendor.msm8974.so \
     vendor/lenovo/kingdom/proprietary/lib/libarcsoft_flawless_face.so:system/lib/libarcsoft_flawless_face.so \
     vendor/lenovo/kingdom/proprietary/lib/libarcsoft_hdr.so:system/lib/libarcsoft_hdr.so \
     vendor/lenovo/kingdom/proprietary/lib/libarcsoft_night_shot.so:system/lib/libarcsoft_night_shot.so \
@@ -78,9 +77,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/kingdom/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/lenovo/kingdom/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
     vendor/lenovo/kingdom/proprietary/lib/libmdmdetect.so:system/lib/libmdmdetect.so \
-    vendor/lenovo/kingdom/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
-    vendor/lenovo/kingdom/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
-    vendor/lenovo/kingdom/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/lenovo/kingdom/proprietary/lib/libwcnss_qmi.so:system/lib/libwcnss_qmi.so \
     vendor/lenovo/kingdom/proprietary/vendor/bin/mm-pp-daemon:system/vendor/bin/mm-pp-daemon \
     vendor/lenovo/kingdom/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
